@@ -11,8 +11,7 @@ Currently learning: GoLang, Unreal Engine.
 
 ---
 ## 📱 Contact Me
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Araykal)
-
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Araykal) [![Bilibili](https://img.shields.io/badge/-Bilibili-pink?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/675763333)
 ---
 ## 🌟 Tech Stack
 
