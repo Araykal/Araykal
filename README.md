@@ -23,9 +23,9 @@
 ## 03 / Now compiling
 
 <p align="center">
-  <img src="./assets/now-compiling.svg" alt="2" width="100%" />
+  <img src="./assets/now-compiling.svg" alt="2" width="90%" />
 </p>
 
 <p align="center">
-  <img src="./assets/signature.svg" alt="2" width="90%" />
+  <img src="./assets/signature.svg" alt="2" width="100%" />
 </p>
