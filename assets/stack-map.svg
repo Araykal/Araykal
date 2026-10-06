@@ -1,0 +1,17 @@
+<svg width="900" height="172" viewBox="0 0 900 172" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">stack</title><desc id="desc">3</desc>
+<defs>
+ <linearGradient id="ink" x1="80" y1="0" x2="820" y2="172" gradientUnits="userSpaceOnUse"><stop stop-color="#111827"/><stop offset=".5" stop-color="#6B7280"/><stop offset="1" stop-color="#D1D5DB"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="900" y2="0"><stop stop-color="#F9FAFB"/><stop offset=".5" stop-color="#E5E7EB"/><stop offset="1" stop-color="#F9FAFB"/></linearGradient>
+ <linearGradient id="scan" x1="0" y1="0" x2="240" y2="0"><stop stop-color="#111827" stop-opacity="0"/><stop offset=".5" stop-color="#111827" stop-opacity=".6"/><stop offset="1" stop-color="#111827" stop-opacity="0"/></linearGradient>
+ <style>
+  .label{font-family:"JetBrains Mono","Cascadia Code",monospace;font-size:11px;letter-spacing:1.8px;fill:#6B7280}.name{font-family:Arial,sans-serif;font-size:13px;font-weight:700;fill:#1F2937}.node{animation:pulse 2.8s ease-in-out infinite}.n2{animation-delay:.4s}.n3{animation-delay:.8s}.scan{animation:slide 4.5s linear infinite}@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}@keyframes slide{from{transform:translateX(-260px)}to{transform:translateX(900px)}}
+ </style>
+</defs>
+<text class="label" x="24" y="18">LANGUAGES</text><text class="label" x="323" y="18">TOOLS</text><text class="label" x="622" y="18">SYSTEMS</text>
+<rect x="16" y="30" width="270" height="112" rx="14" fill="url(#panel)" stroke="#D1D5DB"/><rect x="315" y="30" width="270" height="112" rx="14" fill="url(#panel)" stroke="#D1D5DB"/><rect x="614" y="30" width="270" height="112" rx="14" fill="url(#panel)" stroke="#D1D5DB"/>
+<g class="node"><circle cx="42" cy="61" r="5" fill="#111827"/><text class="name" x="59" y="66">Java</text><circle cx="42" cy="91" r="5" fill="#4B5563"/><text class="name" x="59" y="96">Kotlin</text><circle cx="42" cy="121" r="5" fill="#9CA3AF"/><text class="name" x="59" y="126">Rust · C++ · C#</text></g>
+<g class="node n2"><circle cx="341" cy="61" r="5" fill="#111827"/><text class="name" x="358" y="66">IntelliJ IDEA</text><circle cx="341" cy="91" r="5" fill="#4B5563"/><text class="name" x="358" y="96">RustRover · Visual Studio</text><circle cx="341" cy="121" r="5" fill="#9CA3AF"/><text class="name" x="358" y="126">Git · GitHub</text></g>
+<g class="node n3"><circle cx="640" cy="61" r="5" fill="#111827"/><text class="name" x="657" y="66">Linux</text><circle cx="640" cy="91" r="5" fill="#4B5563"/><text class="name" x="657" y="96">Windows</text><circle cx="640" cy="121" r="5" fill="#9CA3AF"/><text class="name" x="657" y="126">Unreal Engine</text></g>
+<clipPath id="clip"><rect x="16" y="30" width="868" height="112" rx="14"/></clipPath><rect class="scan" x="0" y="30" width="220" height="112" fill="url(#scan)" clip-path="url(#clip)"/>
+</svg>

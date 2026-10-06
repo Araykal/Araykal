@@ -17,12 +17,7 @@
 ## 02 / Working set
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,cs,unreal&theme=light&perline=8" alt="Java, Kotlin, C++, C#, Unreal Engine" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,git,github,linux,windows&theme=light&perline=8" alt="IntelliJ IDEA, Visual Studio, VS Code, Git, GitHub, Linux, Windows" />
+  <img src="./assets/stack-map.svg" alt="Monochrome technology stack: languages, tools, and systems" width="100%" />
 </p>
 
 ## 03 / Now compiling

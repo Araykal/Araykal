@@ -2,8 +2,8 @@
   <title id="title">1</title>
   <desc id="desc">223</desc>
   <defs>
-    <linearGradient id="ink" x1="155" y1="8" x2="565" y2="49" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset=".45" stop-color="#CBD5E1"/><stop offset="1" stop-color="#64748B"/></linearGradient>
-    <linearGradient id="rule" x1="80" y1="0" x2="640" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".25" stop-color="#CBD5E1"/><stop offset=".75" stop-color="#94A3B8"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+    <linearGradient id="ink" x1="155" y1="8" x2="565" y2="49" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset=".45" stop-color="#B8C0CC"/><stop offset="1" stop-color="#64748B"/></linearGradient>
+    <linearGradient id="rule" x1="80" y1="0" x2="640" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".25" stop-color="#B8C0CC"/><stop offset=".75" stop-color="#4B5563"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
     <style>
       .word { font-family: Georgia, serif; font-style: italic; letter-spacing: 1px; }
       .draw { stroke-dasharray: 560; stroke-dashoffset: 560; animation: draw 2.4s ease-out forwards; }
@@ -13,9 +13,9 @@
     </style>
   </defs>
   <path class="pulse" d="M80 46H640" stroke="url(#rule)" stroke-width="1"/>
-  <circle cx="80" cy="46" r="2.5" fill="#CBD5E1"/><circle cx="640" cy="46" r="2.5" fill="#94A3B8"/>
+  <circle cx="80" cy="46" r="2.5" fill="#B8C0CC"/><circle cx="640" cy="46" r="2.5" fill="#4B5563"/>
   <text class="word" x="74" y="31" font-size="17" fill="url(#ink)">May your soul be as pure as snow—and mine, too.</text>
   
   
-  <path class="draw" d="M74 38C190 44 310 42 425 39C520 36 610 42 646 37" stroke="#E2E8F0" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+  <path class="draw" d="M74 38C190 44 310 42 425 39C520 36 610 42 646 37" stroke="#6B7280" stroke-width="1.5" stroke-linecap="round" fill="none"/>
 </svg>

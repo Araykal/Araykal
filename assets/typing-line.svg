@@ -3,12 +3,12 @@
   <desc id="desc">c</desc>
   <defs>
     <linearGradient id="g" x1="110" y1="0" x2="610" y2="34" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF"/><stop offset=".5" stop-color="#E2E8F0"/><stop offset="1" stop-color="#94A3B8"/>
+      <stop stop-color="#FFFFFF"/><stop offset=".5" stop-color="#B8C0CC"/><stop offset="1" stop-color="#4B5563"/>
     </linearGradient>
     <clipPath id="reveal"><rect x="0" y="0" width="0" height="34"><animate attributeName="width" from="0" to="720" dur="4.8s" begin="0s" fill="freeze"/></rect></clipPath>
     <style>
       .t { font: 500 15px "JetBrains Mono", "Cascadia Code", monospace; letter-spacing: .3px; fill: url(#g); animation: breathe 3.6s ease-in-out 4.8s infinite; transform-origin: 360px 17px; }
-      .caret { fill: #CBD5E1; animation: caret 1s steps(1,end) infinite; }
+      .caret { fill: #6B7280; animation: caret 1s steps(1,end) infinite; }
       @keyframes breathe { 0%,100% { opacity: .72; } 50% { opacity: 1; } }
       @keyframes caret { 50% { opacity: 0; } }
     </style>
