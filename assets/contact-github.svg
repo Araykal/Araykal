@@ -1,0 +1,6 @@
+<svg width="148" height="34" viewBox="0 0 148 34" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Araykal">
+<defs><linearGradient id="s" x1="0" y1="0" x2="148" y2="34" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient></defs>
+<rect x=".5" y=".5" width="147" height="33" rx="7.5" fill="url(#s)" stroke="#D1D5DB"/>
+<path d="M22 10.5C17.9 10.5 14.5 13.9 14.5 18C14.5 21.3 16.6 24.1 19.6 25.1C20 25.2 20.1 24.9 20.1 24.7V23.3C17.8 23.8 17.3 22.3 17.3 22.3C16.9 21.4 16.4 21.1 16.4 21.1C15.7 20.6 16.5 20.6 16.5 20.6C17.3 20.7 17.7 21.4 17.7 21.4C18.4 22.6 19.6 22.3 20.1 22.1C20.2 21.6 20.4 21.3 20.6 21.1C18.7 20.9 16.7 20.1 16.7 16.6C16.7 15.6 17.1 14.8 17.7 14.1C17.6 13.9 17.2 12.9 17.8 11.5C17.8 11.5 18.4 11.3 20.1 12.4C20.7 12.2 21.4 12.1 22 12.1C22.6 12.1 23.3 12.2 23.9 12.4C25.6 11.3 26.2 11.5 26.2 11.5C26.8 12.9 26.4 13.9 26.3 14.1C26.9 14.8 27.3 15.6 27.3 16.6C27.3 20.1 25.3 20.9 23.4 21.1C23.7 21.4 24 22 24 22.8V24.7C24 24.9 24.1 25.2 24.5 25.1C27.5 24.1 29.5 21.3 29.5 18C29.5 13.9 26.1 10.5 22 10.5Z" fill="#334155"/>
+<text x="38" y="21.5" fill="#334155" font-family="Arial,sans-serif" font-size="13" font-weight="700">github</text><path d="M84 17H128" stroke="#CBD5E1"/><circle cx="132" cy="17" r="3" fill="#64748B"/>
+</svg>
